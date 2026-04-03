@@ -1,5 +1,18 @@
-## Hi there 👋
 
+## Hi, I'm Loveleen 👋
+
+Product Support Engineer at Razorpay working on fintech payment systems.
+
+### 💻 What I work with
+- Go (Golang), Microservices
+- REST APIs, Debugging, RCA
+- MySQL, Python (automation & data fixes)
+
+### 🚀 What I'm building
+- Backend-focused projects to transition into Software Engineering
+
+### 📫 Connect
+- LinkedIn: https://linkedin.com/in/loveleenk14
 <!--
 **loveleen4k/loveleen4k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
