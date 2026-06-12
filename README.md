@@ -34,7 +34,7 @@
 - AI agent workflows for engineering operations
 
 ### 📌 Highlights
-- Shipped 243+ merged PRs and resolved 880+ engineering issues, including 300+ P0/P1 incidents
+- Shipped 243+ merged PRs and resolved 900+ engineering issues, including 300+ P0/P1 incidents
 - Reduced critical incident escalation rate from 100% to ~10.5% via an AI-driven triage system
 - Earned the Customer Champion Award and converted to full-time based on engineering impact
 
